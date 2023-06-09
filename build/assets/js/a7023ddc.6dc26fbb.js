@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfp_browser_site=self.webpackChunkfp_browser_site||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"\u539f\u5b50\u5339\u914d","permalink":"/blog/tags/\u539f\u5b50\u5339\u914d","count":1},{"label":"document","permalink":"/blog/tags/document","count":1}]')}}]);
